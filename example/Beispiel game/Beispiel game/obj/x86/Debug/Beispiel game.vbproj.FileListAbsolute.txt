@@ -1,0 +1,16 @@
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Beispiel game.exe
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Beispiel game.pdb
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Beispiel game.xml
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Toecramp Engine.dll
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Toecramp Engine.pdb
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\bin\Debug\Toecramp Engine.xml
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel game.vbprojResolveAssemblyReference.cache
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel_game.Form1.resources
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel_game.Resources.resources
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel game.vbproj.GenerateResource.Cache
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel game.exe
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel game.xml
+C:\Users\pait\AppData\Local\Temporary Projects\Beispiel game\obj\x86\Debug\Beispiel game.pdb
+C:\Users\pait\Desktop\Game\Beispiel game\Beispiel game\obj\x86\Debug\Beispiel game.exe
+C:\Users\pait\Desktop\Game\Beispiel game\Beispiel game\obj\x86\Debug\Beispiel game.xml
+C:\Users\pait\Desktop\Game\Beispiel game\Beispiel game\obj\x86\Debug\Beispiel game.pdb
